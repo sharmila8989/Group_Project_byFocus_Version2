@@ -15,3 +15,6 @@ C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus
 C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\obj\Debug\LegoProject2017_byFocus.csproj.GenerateResource.Cache
 C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\obj\Debug\LegoProject2017_byFocus.exe
 C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\obj\Debug\LegoProject2017_byFocus.pdb
+C:\Users\sharm\Desktop\home work\Group_Project_byFocus_Version2\LegoProject2017_byFocus\LegoProject2017_byFocus\bin\Debug\LegoProject2017_byFocus.exe.config
+C:\Users\sharm\Desktop\home work\Group_Project_byFocus_Version2\LegoProject2017_byFocus\LegoProject2017_byFocus\obj\Debug\LegoProject2017_byFocus.exe
+C:\Users\sharm\Desktop\home work\Group_Project_byFocus_Version2\LegoProject2017_byFocus\LegoProject2017_byFocus\obj\Debug\LegoProject2017_byFocus.pdb
