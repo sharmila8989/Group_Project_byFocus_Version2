@@ -9,6 +9,7 @@ using Lego.Ev3.Desktop;
 namespace LegoProject2017_byFocus
 {
     // hello
+    // hello again
     public class ColourSensor
     {
         
